@@ -1,0 +1,5 @@
+C:\Users\Pato\source\repos\GraficadorTriangulos\clbTriangulo\bin\Debug\clbTriangulo.dll
+C:\Users\Pato\source\repos\GraficadorTriangulos\clbTriangulo\bin\Debug\clbTriangulo.pdb
+C:\Users\Pato\source\repos\GraficadorTriangulos\clbTriangulo\obj\Debug\clbTriangulo.csprojAssemblyReference.cache
+C:\Users\Pato\source\repos\GraficadorTriangulos\clbTriangulo\obj\Debug\clbTriangulo.dll
+C:\Users\Pato\source\repos\GraficadorTriangulos\clbTriangulo\obj\Debug\clbTriangulo.pdb

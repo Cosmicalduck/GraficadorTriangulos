@@ -1,0 +1,25 @@
+﻿<Window x:Class="Graficador.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Graficador"
+        mc:Ignorable="d"
+        Title="Graficador de triangulo" Height="382.836" Width="762.313" ResizeMode="NoResize">
+    <Grid Background="#FFDDCBFB">
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="223" Margin="26,68,0,0" VerticalAlignment="Top" Width="394">
+            <Canvas x:Name="cnvGrafico" HorizontalAlignment="Left" Height="222" Margin="-1,-1,0,0" VerticalAlignment="Top" Width="393" Background="White"/>
+        </Border>
+        <TextBox x:Name="txtValorA" HorizontalAlignment="Left" Height="33" Margin="547,68,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="127"/>
+        <TextBox x:Name="txtValorB" HorizontalAlignment="Left" Height="33" Margin="547,106,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="127"/>
+        <TextBox x:Name="txtValorC" HorizontalAlignment="Left" Height="33" Margin="547,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="127"/>
+        <TextBox x:Name="txtEscala" HorizontalAlignment="Left" Height="33" Margin="547,183,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="127"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="481,284,0,0" Click="btnLimpiar_Click"/>
+        <Button x:Name="btnGraficar" Content="Graficar" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="617,284,0,0" Click="btnGraficar_Click"/>
+        <Label Content="Lado A" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,68,0,0"/>
+        <Label Content="Lado B" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,106,0,0"/>
+        <Label Content="Lado C" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,144,0,0"/>
+        <Label Content="Escala" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="458,190,0,0"/>
+        <Label Content="Graficador de Triángulo" HorizontalContentAlignment="Center" Margin="26,10,35,307" Background="#FFFFFDD3" FontSize="15" FontWeight="Bold"/>
+    </Grid>
+</Window>

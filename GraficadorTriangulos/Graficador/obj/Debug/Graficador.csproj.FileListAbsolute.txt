@@ -1,0 +1,17 @@
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\bin\Debug\Graficador.exe.config
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\bin\Debug\Graficador.exe
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\bin\Debug\Graficador.pdb
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\bin\Debug\clbTriangulo.dll
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\bin\Debug\clbTriangulo.pdb
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.csprojAssemblyReference.cache
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\MainWindow.g.cs
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\App.g.cs
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador_MarkupCompile.cache
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador_MarkupCompile.lref
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\MainWindow.baml
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.g.resources
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.Properties.Resources.resources
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.csproj.GenerateResource.cache
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.csproj.CopyComplete
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.exe
+C:\Users\Pato\source\repos\GraficadorTriangulos\Graficador\obj\Debug\Graficador.pdb
